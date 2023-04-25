@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3Win2DSwapChain (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3Win2DSwapChain (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
